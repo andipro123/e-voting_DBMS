@@ -93,7 +93,7 @@ def register():
         password = request.form['password']
         has_voted = False
         assembly = request.form['assembly']
-        isAdmin = request.form['admin']
+        isAdmin = request.form.get('admin', False)
 
         # For storing password, we need to hash it
         salt = "evoting"
