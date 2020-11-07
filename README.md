@@ -10,14 +10,18 @@ Batch: T4
 
 <hr>
 
-#### Project Description:
+## Project Description:
 
 <p>This is a simple evoting system where voters can login using their voter ids and cast votes for their favourite candidates.
 This is especially useful in situations like a pandemic where voter turn out is likely to be low. An online voting system is not only convenient but also the need of the hour. Most elections are cumbersome and require a lot of capital investment. If the process is held online, it would be easier for people to vote and with appropriate security system, fair and transparent elections can be held. This database defines the general schema that would be required if such a system were in place.</p>
 
 <hr>
 
-#### ER Diagram
+## Link to repository
+
+<a href="https://github.com/andipro123/e-voting_DBMS">Github</a>
+
+## ER Diagram
 
 <img src="screenshots/er.png">
 
